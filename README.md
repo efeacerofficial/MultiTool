@@ -49,4 +49,5 @@ Want to add new units (Temperature, Volume, Currency)? Submit a Pull Request.
 Distributed under the MIT License. See LICENSE for more information.
 
 💡 Developer's Note
+
 I built this to challenge the "WinForms is outdated" stereotype. If you find this UI logic or the expression engine helpful, feel free to fork it and don't forget to drop a ⭐!

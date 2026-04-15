@@ -4,6 +4,7 @@ OmniCalc is a high-performance, versatile calculation and unit conversion engine
 Why OmniCalc? Most calculators are just grids of buttons. OmniCalc features a Discord-inspired dark theme, a dynamic UI built entirely through code, and a "live" conversion engine that thinks as fast as you type.
 
 ✨ Features
+
 🧮 Advanced Expression Parsing: Powered by a robust DataTable.Compute engine, it handles nested parentheses and complex mathematical strings with ease.
 
 ⚖️ Live Unit Conversion: No "Calculate" button needed. It converts length and weight units in real-time (on-the-fly) as you enter values.
@@ -15,6 +16,7 @@ Why OmniCalc? Most calculators are just grids of buttons. OmniCalc features a Di
 🚫 Smart Input Logic: Built-in safeguards prevent operator stacking (e.g., ++ or */) and filter out invalid character entries automatically.
 
 🛠️ Tech Stack
+
 Language: C#
 
 Framework: .NET / Windows Forms
@@ -24,6 +26,7 @@ UI Style: Flat Design (Discord Palette)
 Engine: Dynamic String Expression Parsing
 
 ⚙️ Installation & Usage
+
 Clone the repo:
 
 Bash
@@ -33,6 +36,7 @@ Open the Project: Launch the .sln file in Visual Studio.
 Build & Run: Press F5 and start calculating!
 
 🤝 Contributing
+
 Contributions are what make the open-source community such an amazing place!
 
 Found a bug? Open an Issue.
@@ -40,6 +44,7 @@ Found a bug? Open an Issue.
 Want to add new units (Temperature, Volume, Currency)? Submit a Pull Request.
 
 📜 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
 💡 Developer's Note

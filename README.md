@@ -1,4 +1,5 @@
 🚀 OmniCalc: Modern C# Calculator & Unit Converter
+
 OmniCalc is a high-performance, versatile calculation and unit conversion engine built on Windows Forms. It’s designed to prove that WinForms doesn't have to look like it's from 1998.
 
 Why OmniCalc? Most calculators are just grids of buttons. OmniCalc features a Discord-inspired dark theme, a dynamic UI built entirely through code, and a "live" conversion engine that thinks as fast as you type.

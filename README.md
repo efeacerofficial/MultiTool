@@ -79,4 +79,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 > "I built this to challenge the 'WinForms is outdated' stereotype. If you find the UI logic or the expression engine helpful, feel free to fork it and don't forget to drop a ⭐!"
 
 ---
-*Developed with ❤️ by [Your Name/Username]*
+*Developed with ❤️ by efeacerofficial*
